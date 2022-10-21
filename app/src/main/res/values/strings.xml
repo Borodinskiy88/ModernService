@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ModernService</string>
+    <string name="hello">ModernService!</string>
 </resources>
