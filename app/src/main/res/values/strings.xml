@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ModernService</string>
     <string name="hello">ModernService!</string>
+    <string name="description_post_logo">Logo</string>
 </resources>
